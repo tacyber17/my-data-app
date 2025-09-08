@@ -1,7 +1,9 @@
-Professional Data Analysis App
+Professional Data Analysis App:
+
 This is a professional, multi-page web application built with Streamlit for comprehensive data analysis and visualization. It provides a clean, interactive environment for users to upload their own data, generate insightful charts, and view key performance indicators (KPIs) in a dynamic dashboard.
 
-Features
+Features:
+
 The application is structured into the following pages, accessible via the sidebar navigation:
 
 Home: A welcoming landing page with a brief description of the app's purpose and functionalities.
@@ -12,12 +14,14 @@ Data Visualization: Enables the creation of various interactive charts (Bar, Lin
 
 Dashboard & Reports: Displays summary statistics, calculates key metrics, and provides interactive filters to slice and dice the data.
 
-How to Run Locally
+How to Run Locally:
+
 To run this application on your local machine, follow these simple steps:
 
 Clone the repository:
 
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/tacyber17/my-app-data.git](https://github.com/tacyber17/my-app-data.git)
+
 cd your-repo-name
 
 Create a virtual environment (recommended):
@@ -44,5 +48,6 @@ streamlit run Home.py
 
 The application will automatically open in your default web browser.
 
-Deployment
+Deployment:
+
 This application is designed for easy deployment on platforms like Streamlit Community Cloud. Simply connect your GitHub repository to your Streamlit Cloud account, and the platform will handle the rest, automatically detecting and installing the dependencies from the requirements.txt file.
